@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+   background-color: rgb(199, 146, 1);
+    
+}
+
+.rorr1{
+    color: rgb(11, 10, 2);
+    font-size: 21px;
+    text-align:justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:unset;
+   
+}
